@@ -10,7 +10,7 @@
 
 ## 📭 Me contacter :
 
-[![Twitter](https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg | width=24)](https://twitter.com/Chlouis_py)
+[![Twitter] Twitter ](https://twitter.com/Chlouis_py)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chlouispy&hide=issues&show_icons=true)
 <br><br>
