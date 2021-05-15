@@ -10,7 +10,7 @@
 
 ## 📭 Me contacter :
 
-[![Twitter](https://en.wikipedia.org/wiki/Twitter#/media/File:Twitter_Logo_as_of_2021.svg)](https://twitter.com/Chlouis_py)
+[![Twitter](https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg)](https://twitter.com/Chlouis_py)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chlouispy&hide=issues&show_icons=true)
 <br><br>
@@ -21,7 +21,7 @@
 
  ### - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=24px> ★★★★★
  ### - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width=24px> ★★★☆☆
- ### - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png" height=24px> ★★★☆☆
+ ### - <img src="https://grafikart.fr/uploads/icons/golang.svg" height=24px> ★★★☆☆
  ### - <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" height=24px> ★★★☆☆
  ### - <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height=24px> ★★★☆☆
  ### - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height=24px> ★★☆☆☆
