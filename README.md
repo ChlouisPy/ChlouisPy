@@ -29,7 +29,7 @@
 
 ### 📖 Library :
 
- - <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" heigth=24px> ## ★★★★☆
+ - <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height=24px> ## ★★★★☆
  - <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" height=24px> ## ★★★★☆
  - <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height=24px> ## ★★★☆☆
  - <img src="https://pytorch.org/assets/images/pytorch-logo.png" height=24px>
