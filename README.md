@@ -27,6 +27,9 @@
  ### - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height=24px> CSS : **★★☆☆☆**
 <br><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlouispy)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+
 ### 📖 Library :
 
  ### - <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height=24px> Keras : **★★★★☆**
