@@ -25,7 +25,6 @@
  ### - <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" height=24px> C : **★★★☆☆**
  ### - <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height=24px> HTML : **★★★☆☆**
  ### - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height=24px> CSS : **★★☆☆☆**
-<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlouispy)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
