@@ -18,7 +18,7 @@
 ## 📚 Ce que je connais :
 
 ### ⌨️ Langages :
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=24px>
  - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg | width=24) ★★★★★
  - ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png){:height="24px" width="24px"} ★★★☆☆
  - ![Golang](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png){:height="24px" width="64px"} ★★★☆☆
