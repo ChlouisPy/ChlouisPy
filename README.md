@@ -17,4 +17,4 @@
 
 ## 📚 Ce que je connais :
 
-![Python](https://fr.wikipedia.org/wiki/Fichier:Python-logo-notext.svg)
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
