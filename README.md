@@ -5,7 +5,7 @@
 
 🔎 Je suis passionné par le fait de résoudre des problèmes plus ou moins mathématiques 
 
-😺 Ce GitHub me sers à présenter certains de mes projets dont je suis fière 
+😺 Ce GitHub me sert à présenter certains de mes projets dont je suis fière 
 <br><br>
 
 ## 📭 Me contacter :
