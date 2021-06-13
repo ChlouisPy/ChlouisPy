@@ -10,7 +10,7 @@
 
 ## 📭 Me contacter :
 
- - [Twitter](https://twitter.com/Chlouis_py)
+ - #### [Twitter](https://twitter.com/Chlouis_py)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chlouispy&hide=issues&show_icons=true)
 <br><br>
