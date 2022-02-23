@@ -55,19 +55,19 @@
 
 ### - 🧠 Projet d’intelligence artificielle :
 
-<a href="https://github.com/ChlouisPy/Handwritten-number-recognition"><img src="https://github.com/ChlouisPy/ChlouisPy/blob/main/images/2.png?raw=true" width="75%"/></a>
+<a href="https://github.com/ChlouisPy/Handwritten-number-recognition"><img src="https://github.com/ChlouisPy/ChlouisPy/blob/main/images/2.png?raw=true" width="50%"/></a>
 
 Ce projet est l'un de mes premiers en Intelligence Artificielle, il a été modifié et adapté pour GitHub mais le model reste le même.
 
 ### - ⚙ Projet algorithmique️ :
 
-<a href="https://github.com/ChlouisPy/maze-generator-maze-solver"><img src="https://github.com/ChlouisPy/ChlouisPy/blob/main/images/1.png?raw=true" width="75%"/></a>
+<a href="https://github.com/ChlouisPy/maze-generator-maze-solver"><img src="https://github.com/ChlouisPy/ChlouisPy/blob/main/images/1.png?raw=true" width="50%"/></a>
 
 Ce projet a été inspiré par cette vidéo [CRÉER ET RÉSOUDRE UN LABYRINTHE AUTOMATIQUEMENT 🗺️💻](https://www.youtube.com/watch?v=K7vaT8bZRuk). J'ai recréé ce générateur et résolveur de Labyrinthe en Python en Golang et en C.
 
 ### - 🌐 Projet web :
 
-<a href="https://github.com/ChlouisPy/BrainMath"><img src="https://github.com/ChlouisPy/ChlouisPy/blob/main/images/3.png?raw=true" width="75%"/></a>
+<a href="https://github.com/ChlouisPy/BrainMath"><img src="https://github.com/ChlouisPy/ChlouisPy/blob/main/images/3.png?raw=true" width="50%"/></a>
 
 Ce projet a été réalisé dans un cadre scolaire, nous devions créer un site static de calcul mental avec différents mods de jeu. Ce travail m'aura value un 20/20.
 
