@@ -49,6 +49,7 @@
  ### - <img src="https://github.com/ChlouisPy/ChlouisPy/blob/main/images/11.png?raw=true" height=24px> Excel : **★★★★☆**
  ### - <img src="https://github.com/ChlouisPy/ChlouisPy/blob/main/images/8.png?raw=true" height=24px> Visual Studio Code : **★★★☆☆**
  ### - <img src="https://github.com/ChlouisPy/ChlouisPy/blob/main/images/10.svg?raw=true" height=24px> Visual Studio : **★★★☆☆**
+<br><br>
 
 ## 📂 Mes projets :
 
