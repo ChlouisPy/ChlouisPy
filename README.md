@@ -9,15 +9,13 @@
 
 「📈」Je m'intéresse à de nombreux autres domaines tels que l'algorithmie, l'économie, les mathématiques ou encore la physique.
 
-<br><br>
-
 ## 📭 Me contacter :
 
  #### -「🐦」[Twitter](https://twitter.com/Chlouis_py)
  
  #### -「🤿」[Discord](https://discordapp.com/users/705528638027726998)
  
-<br><br>
+ 
 ## 📈 Statistiques :
 
 ### -「📊」Stats
@@ -25,8 +23,6 @@
 
 ### -「🖥️」Langages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlouispy&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-<br><br>
 
 ## 📚 Ce que je connais :
 
