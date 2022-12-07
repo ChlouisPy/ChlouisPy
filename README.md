@@ -11,7 +11,7 @@
 
 ## 📭 Me contacter :
 
- #### -「🐦」[Twitter](https://twitter.com/Chlouis_py)
+ #### -「🐦」[Twitter](https://twitter.com/Chlouispy)
  
  #### -「🤿」[Discord](https://discordapp.com/users/705528638027726998)
  
