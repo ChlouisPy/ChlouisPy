@@ -19,10 +19,10 @@
 ## 📈 Statistiques :
 
 ### -「📊」Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chlouispy&hide=issues&show_icons=true)
+![Anurag's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chlouispy&hide=issues&show_icons=true)
 
 ### -「🖥️」Langages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlouispy&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chlouispy&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Ce que je connais :
 
